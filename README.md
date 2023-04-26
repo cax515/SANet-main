@@ -22,3 +22,9 @@ If you find our work useful in your research or publications, please consider ci
   year={2022},
 }
 ```
+
+## License
+Please note that all codes are protected by patents. They can only be used for research purposes. 
+
+## Acknowledgements
+Part of the code is adopted from some previous work: [DeepLabV3], [PSMNet](https://github.com/JiaRenChang/PSMNet), [GwcNet](https://github.com/xy-guo/GwcNet) and [GA-Net](https://github.com/feihuzhang/GANet). We thank the original authors for their awesome repos. 
